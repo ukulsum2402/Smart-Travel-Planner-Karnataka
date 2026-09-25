@@ -1,5 +1,8 @@
 # Smart Travel Planner (Karnataka Travel Guide)
 
+🚀 Live Demo
+https://smart-travel-planner-karnataka-1.onrender.com
+
 A full-stack, responsive web application engineered for travelers to discover, explore, and generate customized, day-by-day travel itineraries across the diverse regions of Karnataka, India.
 
 > **Note on Scope:** Smart Travel Planner is a dedicated **user-facing travel discovery and itinerary planning platform**. It does **not** include an administrative dashboard, nor does it provide booking management, merchant portals, or monetary transaction/payment processing systems. All travel recommendations, district guides, accommodation references, and itineraries serve exclusively for travel planning and exploration.
