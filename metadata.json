@@ -1,0 +1,6 @@
+{
+  "name": "Karnataka Travel Guide & Smart Trip Planner",
+  "description": "Explore Karnataka, discover beautiful destinations, and create personalized day-by-day travel itineraries based on your interests, budget, and travel plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
